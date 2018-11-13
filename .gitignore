@@ -1,0 +1,14 @@
+__pycache__
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# venv
+*/bin
+*/lib
+*/lib64
+*/share
+pyvenv.cfg
+
+# Output images
+*.png
